@@ -1,0 +1,16 @@
+Sharad_Portfolio/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── components/
+│   │   └── [YourSections].jsx
+│   └── assets/
+│       └── Sharad_Profile.jpg.png
+├── .gitignore
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+├── package-lock.json
+└── README.md
