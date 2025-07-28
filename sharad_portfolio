@@ -7,7 +7,7 @@ Sharad_Portfolio/
 │   ├── components/
 │   │   └── [YourSections].jsx
 │   └── assets/
-│       └── Sharad_Profile.jpg.png
+│       └── sharad_profile.jpg.png
 ├── .gitignore
 ├── tailwind.config.js
 ├── postcss.config.js
